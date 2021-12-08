@@ -10,4 +10,4 @@ The presentation can be find [here](link)
 Re-watch YouTube stream [here](https://youtu.be/MEU2NK39PuM)
 
 ## Credits
-This event was set up by @pyladiesams, {Github handlers}
+This event was set up by @pyladiesams and @informusica
