@@ -1,23 +1,13 @@
-# {Event name}
-### Level: {Beginner, Intermediate, Advanced}
+# An Introduction to Communicating about your Models
+### Level: Beginner
 
 ## Meetup description
-This meetup is all about {meetup topic description}.
+The outcomes of our data analysis and machine learning work are usually applied in broader contexts. As a consequence, stakeholders who are no insiders to our technical approaches will need to have some understanding of how our models work. In this talk, I will highlight some common challenges and pitfalls encountered, making use of real-world examples. Based on these, we will interactively discuss how we can communicate better.
 
-### Talk 1 - {Name of the talk}
-
-{Talk description}
-
-The presentation can be find [here](link). {The repo with code [here](link).}
-
-### Talk 2 - {Name of the talk}
-
-{Talk description}
-
-The presentation can be find [here](link). {The repo with code [here](link).}
+The presentation can be find [here](link)
 
 ## Video record
-Re-watch YouTube stream [here](link)
+Re-watch YouTube stream [here](https://youtu.be/MEU2NK39PuM)
 
 ## Credits
 This event was set up by @pyladiesams, {Github handlers}
